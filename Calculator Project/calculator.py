@@ -1,6 +1,7 @@
 # This is my first python program
 # It could be more efficient using loops etc.
 
+import sys
 
 def add(num, num1):
     return num + num1
@@ -11,7 +12,7 @@ def sub(num, num1):
 
 
 def mult(num, num1):
-    return num * num1
+    return num * num1 
 
 
 def div(num, num1):
